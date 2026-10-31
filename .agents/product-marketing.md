@@ -1,6 +1,6 @@
 # Contexto de Marketing: Vilela Imóveis
 
-**Document version:** v5
+**Document version:** v6
 **Last updated:** 2026-10-31
 **Base metodológica:** skill `product-marketing` de [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) (v2.14.0, licença MIT), usada sem alterações no original. Este arquivo segue as 14 seções do modelo, na mesma ordem, adaptadas ao mercado imobiliário brasileiro. O nome original de cada seção aparece entre parênteses.
 
@@ -226,7 +226,7 @@ Caminho do Reel até a venda, em etapas [HIPÓTESE, a ajustar com os dados reais
 **Seguidores hoje:** aproximadamente 3.400 (informado em 2026-10-31). [CONFIRMADO]
 **Ritmo necessário até a meta (cálculo):** faltam cerca de 600 seguidores em 61 dias (1/11 a 31/12/2026), ou seja, em média cerca de 10 por dia, 70 por semana ou 300 por mês. É uma conta simples, não uma previsão: o crescimento real costuma vir em picos, puxado por Reels que se destacam.
 **Outras métricas atuais (alcance médio, visualizações por Reel, seguidores ganhos por mês, contatos por mês):** [A PREENCHER]
-**Perfil do Instagram:** [A PREENCHER]
+**Perfil do Instagram:** @grupovilelaimoveis ("Vilela Imóveis | imobiliária- zona leste") [CONFIRMADO pela exportação do Meta Business Suite]
 
 Métricas por Reel para acompanhar [HIPÓTESE, a confirmar]: visualizações em relação à mediana da conta, retenção, envios, salvamentos, seguidores vindos do Reel, visitas ao perfil, contatos no WhatsApp e leads qualificados atribuídos ao Reel.
 
@@ -281,13 +281,23 @@ Começa vazio. Cada linha precisa de evidência (teste, número, tamanho da amos
 
 | Data | Aprendizado | Evidência | Aplica-se a | Status |
 |---|---|---|---|---|
-| 2026-10-31 | Visualizações altas não garantem seguidores: o Reel mais visto converteu abaixo da média da conta | Jardim Independência (R$ 1,2 mi, fora da faixa): 15.639 visualizações, 0,58 seguidor por 1.000, contra 0,89 da conta. 1 caso | Métricas, social | observar |
-| 2026-10-31 | Uma história real de cliente teve a maior taxa de seguidores do período | Entrega de chaves após 20 anos: 3,71 seguidores por 1.000 visualizações (4,2× a conta), 23 dos 87 seguidores. 1 caso | Roteiro, social | observar |
-| 2026-10-31 | Um Reel de imóvel na região gerou muito mais conversa e compartilhamento que a média | Apartamento na Vila Ema: comentários 5,1× e compartilhamentos 3,1× a taxa da conta. Teor dos comentários não verificado. 1 caso | Social, customer-research | observar |
-| 2026-10-31 | A mediana é a referência para comparar Reels nesta conta, não a média | Média 1.043 contra mediana 897,5. 2 Reels concentram 22% das visualizações. 94 Reels | Métricas, todas as skills | ativo |
-| 2026-10-31 | Reels abaixo de 100 visualizações ficam fora das comparações criativas até serem explicados | 24 Reels abaixo de 100 contra 11 entre 100 e 499, sugerindo causa de distribuição (republicação, teste, arquivamento). 94 Reels | Métricas, diagnóstico | ativo |
+| 2026-10-31 | Comparar Reels por conteúdo único: cópias do mesmo vídeo são somadas ao principal | 32 dos 94 Reels são cópias (mesma duração, mesma legenda). Explicam 22 dos 24 Reels abaixo de 100 views. 94 Reels | Métricas, diagnóstico | ativo |
+| 2026-10-31 | A referência da conta é a mediana por conteúdo único: 1.278 views | 62 conteúdos; a mediana de 897,5 por publicação é puxada para baixo pelas cópias. 71% dos conteúdos ficam entre 1.000 e 2.600 | Métricas, todas as skills | ativo |
+| 2026-10-31 | Avaliar cada Reel por seguidores e interação por 1.000 views, nunca só por visualização | Os 2 mais vistos (#08, #54) tiveram as menores taxas de compartilhamento e comentário. 32 de 62 conteúdos trouxeram 0 seguidor | Métricas, social | ativo |
+| 2026-10-31 | Publicar o mesmo vídeo duas vezes não soma alcance: em 31 de 32 pares, só uma versão teve distribuição | As 32 cópias somaram 2,8% das views. Causa não comprovada (repostagem, teste ou exclusão) | Publicação | observar |
+| 2026-10-31 | História de cliente não gera seguidores por si só: 1 de 5 funcionou | #54 trouxe 23 seguidores; #63, #67, #77, #91 trouxeram 0. Mediana do grupo 1.117, abaixo da conta | Roteiro, social | observar |
+| 2026-10-31 | Ganchos de situação do dia a dia e da dor do aluguel têm as melhores taxas de seguidores fora o #54 | #87 "Cansou do vizinho de cima?": 1,98 seg. e 7,52 comp. por 1.000. #57 e #71 (aluguel): 1,86 seg. e 7,06 comp. por 1.000. 3 casos | Hooks, roteiro | observar |
+| 2026-10-31 | Comparação de preço alcança menos, mas quem vê interage mais | #57, #64, #71, #80: mediana 1.051, mas todas as taxas acima da conta. 4 casos; 3 recentes ainda abertos | Hooks, copywriting | observar |
+| 2026-10-31 | Perguntas sobre "quanto custa" ficaram entre os piores resultados | #78 (546), #82 (297), #90 (493, recente) | Hooks | observar |
+| 2026-10-31 | Sobrados geram mais interação que apartamentos e casas | 9 sobrados: mediana 1.434, 6,90 comp., 2,86 com., 3,23 salv. por 1.000 (conta: 4,95, 2,08, 1,60) | Pauta, social | observar |
+| 2026-10-31 | Curiosidade é salva, mas não vira seguidor | 5 conteúdos de curiosidade: 2,46 salv. por 1.000 (conta 1,60), 0,43 seg. por 1.000 (conta 0,89) | Hooks, pauta | observar |
+| 2026-10-31 | Conteúdo de bairro ainda não gerou compartilhamento nem seguidor | Sábado de História #75 e #85: 0 seguidor, 2,67 comp. por 1.000. 2 episódios | Pauta | observar |
+| 2026-10-31 | O CTA "Comenta PALAVRA" não gerou volume de comentários | 18 conteúdos, 0 a 12 comentários cada; 5 com 0 | Copywriting | observar |
+| 2026-10-31 | Reels com menos de 5 dias ficam fora das conclusões | Métricas da exportação são acumuladas; #89 a #94 tinham de 1 a 4 dias | Métricas | ativo |
 
-Diagnóstico completo, com o teste das hipóteses: [`diagnosticos/2026-10-31-reels-ago-out.md`](../diagnosticos/2026-10-31-reels-ago-out.md).
+Linhas da versão parcial (v5) substituídas: "Reels abaixo de 100 ficam fora até serem explicados" (explicado: são cópias), "mediana 897,5" (corrigida para 1.278 por conteúdo), "uma história de cliente teve a maior taxa de seguidores" (agora com os 5 casos), "Vila Ema gerou mais conversa" e "views altas não garantem seguidores" (incorporadas na regra de avaliar por taxas).
+
+Diagnóstico completo, com o teste das hipóteses: [`diagnosticos/2026-10-31-reels-ago-out.md`](../diagnosticos/2026-10-31-reels-ago-out.md). Classificação dos 94 Reels: [`diagnosticos/2026-10-31-reels-classificados.csv`](../diagnosticos/2026-10-31-reels-classificados.csv).
 
 ---
 
@@ -303,11 +313,11 @@ Seção que não existe no original, criada para o mercado brasileiro:
 
 Em ordem de importância para o sistema funcionar:
 
-1. Os dados dos últimos 90 dias do Instagram Insights, por Reel (seção 12).
+1. Dados de retenção por Reel do Instagram Insights: tempo médio assistido, gráfico de retenção, seguidores × não seguidores e origem das views (seção 12). A planilha de 04/08 a 30/10 já foi recebida, mas não traz retenção.
 2. Os dados de leads do WhatsApp e da Sweer no mesmo período: quantos chegaram, quantos foram qualificados, quantos viraram visita, proposta ou venda e se a origem foi registrada (seção 12).
 3. O que conta como oportunidade comercial e quais critérios a Sweer usa para qualificar um lead (seção 12).
 4. Perfil dos compradores atuais e o perfil mais importante para o negócio (seções 2 e 3).
-5. Perfil do Instagram (@) (seção 12).
+5. Por que alguns Reels foram publicados duas vezes (repostagem, Reel de teste, exclusão ou erro). Perfil do Instagram confirmado pela planilha: @grupovilelaimoveis.
 6. Capacidade de produção: tempo por semana, equipamento, quem pode atuar, ferramentas de IA e acesso a imóveis para gravar (seção Produção e liberdade criativa).
 7. Diferenciais reais da Vilela e por que os clientes a escolhem (seção 6).
 8. Objeções e perguntas que mais aparecem no atendimento (seções 4, 7 e 9).
@@ -317,6 +327,8 @@ Em ordem de importância para o sistema funcionar:
 12. Dados por bairro (seção 1), se há anúncios pagos (seção 13) e a proporção da pauta reservada a experimentos.
 
 ## Changelog
+
+- v6 (2026-10-31) — Aprendizados refeitos com o diagnóstico completo da planilha por Reel (94 Reels, 62 conteúdos únicos): 4 regras de medição ativas e 9 aprendizados em observação. Substituídas as linhas da versão parcial. Perfil @grupovilelaimoveis confirmado; lacuna de dados por Reel trocada por lacuna de retenção.
 
 - v5 (2026-10-31) — Primeiros aprendizados do diagnóstico dos 94 Reels de 04/08 a 30/10 (versão parcial, sem a planilha por Reel): 3 em observação e 2 regras de medição ativas.
 - v4 (2026-10-31) — Confirmados: venda e locação, com Reels voltados só à venda; conversão principal pelo WhatsApp com qualificação de leads pela Sweer; acesso ao Instagram Insights com dados de 90 dias. Adicionada a seção Como medir sucesso, que liga o Reel ao lead qualificado e à venda; lacunas reordenadas pela coleta de dados reais.
