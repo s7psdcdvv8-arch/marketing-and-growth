@@ -12,7 +12,7 @@ Esta pasta registra como as skills externas são adaptadas para a Vilela Imóvei
 
 | Skill original | Papel no sistema | Adaptação | Status |
 |---|---|---|---|
-| product-marketing | Documento de contexto que as outras skills leem | [`.agents/product-marketing.md`](../.agents/product-marketing.md) | v2 em revisão, com lacunas a preencher |
+| product-marketing | Documento de contexto que as outras skills leem | [`.agents/product-marketing.md`](../.agents/product-marketing.md) | v3 em revisão, com lacunas a preencher |
 | customer-research | Linguagem real do cliente | Pendente | Não iniciada |
 | social | Reels, pilares, métricas e revisão semanal | Pendente | Não iniciada |
 | ad-creative (hook system) | Ganchos com 3 componentes | Pendente | Não iniciada |

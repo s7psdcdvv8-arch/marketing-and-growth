@@ -1,6 +1,6 @@
 # Contexto de Marketing: Vilela Imóveis
 
-**Document version:** v2
+**Document version:** v3
 **Last updated:** 2026-10-31
 **Base metodológica:** skill `product-marketing` de [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) (v2.14.0, licença MIT), usada sem alterações no original. Este arquivo segue as 14 seções do modelo, na mesma ordem, adaptadas ao mercado imobiliário brasileiro. O nome original de cada seção aparece entre parênteses.
 
@@ -29,12 +29,13 @@ Regras para todas as skills:
 ## 1. Visão geral do negócio (Product Overview)
 
 **Em uma linha:** [A PREENCHER]
-**O que fazemos:** imobiliária. [CONFIRMADO] Serviços oferecidos (venda, locação, captação de imóveis de terceiros, lançamentos, administração de aluguel, avaliação, assessoria de financiamento): [A PREENCHER]
+**O que fazemos:** imobiliária. [CONFIRMADO] Não trabalhamos com lançamentos imobiliários. [CONFIRMADO] Quais serviços oferecemos além da intermediação de venda (locação, administração de aluguel, avaliação, assessoria de financiamento): [A PREENCHER]
 **Categoria (como o cliente nos procura):** imobiliária ou corretor na Zona Leste de São Paulo. [HIPÓTESE]
 **Tipo de negócio:** serviço local. [CONFIRMADO]
 **Modelo de receita:** [A PREENCHER] (por exemplo, comissão de venda, taxa de administração de locação)
 **Faixa de preço:** imóveis de aproximadamente R$ 245 mil a R$ 700 mil. É uma referência geral, não um limite absoluto. [CONFIRMADO]
-**Tipos de imóvel (apartamento, casa, novo, usado, na planta, locação):** [A PREENCHER]
+**Tipos de imóvel comercializados:** casas, sobrados, apartamentos, terrenos e salões comerciais. [CONFIRMADO]
+**Fora do escopo:** lançamentos imobiliários. [CONFIRMADO] O conteúdo não deve vender nem prometer imóveis na planta.
 **Tamanho da operação (corretores, CRECI da empresa e dos corretores, tempo de mercado):** [A PREENCHER]
 
 ### Região de atuação
@@ -85,7 +86,9 @@ No original, esta seção é só para B2B. Aqui foi adaptada para os perfis de c
 | Família que quer trocar de imóvel | Espaço, escola, segurança, vender o atual | Coordenar venda e compra | [A PREENCHER] | [HIPÓTESE] |
 | Investidor | Rentabilidade, liquidez, valorização | Escolher bom imóvel e região | [A PREENCHER] | [HIPÓTESE] |
 | Proprietário que quer vender ou alugar | Preço justo, prazo, segurança | Precificar e encontrar comprador ou inquilino | [A PREENCHER] | [HIPÓTESE] |
-| Inquilino | Custo total, localização, garantias | Aprovação de cadastro e garantia | [A PREENCHER] | [HIPÓTESE] |
+| Inquilino | Custo total, localização, garantias | Aprovação de cadastro e garantia | [A PREENCHER] | [HIPÓTESE] (depende de a Vilela trabalhar com locação) |
+| Comprador de terreno (para construir ou investir) | Localização, documentação, potencial de construção | Avaliar regularidade e o que pode ser construído | [A PREENCHER] | [HIPÓTESE] |
+| Comprador ou locatário de salão comercial | Ponto, movimento, visibilidade, custo | Escolher local com retorno para o negócio | [A PREENCHER] | [HIPÓTESE] |
 
 **Perfil mais importante para o negócio hoje:** [A PREENCHER]
 
@@ -155,7 +158,7 @@ Esta seção só aceita **frases reais** de clientes, copiadas de comentários, 
 | FGTS | Saldo do Fundo de Garantia que pode ser usado, dentro das regras, na compra do imóvel |
 | ITBI | Imposto municipal pago na transferência do imóvel |
 | Escritura e registro | Documento em cartório de notas e registro em cartório de imóveis, que formalizam a compra |
-| Na planta | Imóvel vendido antes de a obra ficar pronta |
+| Na planta | Imóvel vendido antes de a obra ficar pronta. A Vilela não trabalha com lançamentos [CONFIRMADO]; o termo fica só para responder dúvidas |
 | CRECI | Registro profissional obrigatório de corretores e imobiliárias |
 
 ## 10. Voz da marca (Brand Voice)
@@ -198,7 +201,9 @@ Só entram provas verificáveis e autorizadas.
 **O que conta como oportunidade comercial:** [A PREENCHER]
 **Meta de seguidores:** chegar a 4.000 seguidores no Instagram até o final de 2026 (31/12/2026). [CONFIRMADO]
 **Metas que acompanham os seguidores:** alcance qualificado, potenciais compradores, reconhecimento da marca e oportunidades comerciais. Seguidores não são o único critério de sucesso. [CONFIRMADO]
-**Métricas atuais (seguidores hoje, alcance médio, visualizações por Reel, contatos por mês):** [A PREENCHER]. Sem o número atual de seguidores não dá para calcular o ritmo de crescimento necessário até a meta.
+**Seguidores hoje:** aproximadamente 3.400 (informado em 2026-10-31). [CONFIRMADO]
+**Ritmo necessário até a meta (cálculo):** faltam cerca de 600 seguidores em 61 dias (1/11 a 31/12/2026), ou seja, em média cerca de 10 por dia, 70 por semana ou 300 por mês. É uma conta simples, não uma previsão: o crescimento real costuma vir em picos, puxado por Reels que se destacam.
+**Outras métricas atuais (alcance médio, visualizações por Reel, seguidores ganhos por mês, contatos por mês):** [A PREENCHER]
 **Perfil do Instagram:** [A PREENCHER]
 
 Métricas propostas para acompanhar [HIPÓTESE, a confirmar]: visualizações do Reel em relação à mediana da conta, retenção, envios, salvamentos, seguidores vindos do Reel, visitas ao perfil, DMs e contatos no WhatsApp.
@@ -224,9 +229,23 @@ O que um roteiro deve informar para ser executável [HIPÓTESE, proposta a valid
 - trechos feitos com IA e com qual ferramenta;
 - tempo estimado de gravação e de edição.
 
-Ainda falta saber [A PREENCHER]:
+### Frequência de publicação: variável estratégica
+
+**Referência desejada:** 1 Reel por dia de segunda a sexta e 2 Reels por dia no sábado e no domingo, cerca de 9 Reels por semana. [CONFIRMADO como referência]
+**Natureza:** é flexível, não uma obrigação. Pode subir ou descer quando houver justificativa estratégica. [CONFIRMADO]
+
+Nenhuma skill deve tratar essa frequência como regra fixa nem cobrar o cumprimento dela. As frequências sugeridas nas skills originais (por exemplo, de 1 a 4 Reels por dia) também valem só como hipótese.
+
+Como ajustar a quantidade [HIPÓTESE, método proposto]:
+- **Ponto de partida:** usar os 9 Reels semanais como referência inicial.
+- **Qualidade primeiro:** se manter o volume obrigar a publicar Reels com gancho fraco, roteiro improvisado ou edição apressada, reduzir o volume na semana seguinte.
+- **Capacidade:** registrar o tempo real gasto em cada Reel (gravação e edição). Depois de 2 a 3 semanas, comparar esse tempo com o tempo disponível.
+- **Resultados:** na revisão semanal, comparar visualizações em relação à mediana da conta, seguidores ganhos por Reel e contatos. Se aumentar o volume não trouxer mais seguidores nem contatos, priorizar menos Reels e mais elaborados.
+- **Oportunidades:** publicar acima da referência quando houver motivo concreto, como um imóvel novo na carteira, uma tendência relevante ou uma série em andamento.
+- **Fim de semana:** a referência prevê 2 Reels por dia no sábado e no domingo. Ainda não se sabe se o fim de semana rende mais para a conta da Vilela. Testar e registrar em Aprendizados.
+
+### Ainda falta saber [A PREENCHER]
 - tempo disponível por semana para gravar e editar;
-- quantos Reels por semana são viáveis com qualidade;
 - equipamento e software de edição usados;
 - quem pode atuar (equipe, amigos, atores contratados);
 - ferramentas de IA já usadas ou disponíveis;
@@ -256,11 +275,11 @@ Seção que não existe no original, criada para o mercado brasileiro:
 
 Em ordem de importância para o sistema funcionar:
 
-1. Número atual de seguidores, perfil do Instagram e métricas atuais, para medir o ritmo até a meta de 4.000 (seção 12).
-2. Serviços oferecidos e tipos de imóvel (seção 1). A faixa de preço já foi confirmada.
-3. Perfil dos clientes atuais e o perfil mais importante para o negócio (seções 2 e 3).
-4. Ação de conversão principal e o que conta como oportunidade comercial (seção 12).
-5. Capacidade de produção: tempo por semana, Reels viáveis, equipamento, quem pode atuar e ferramentas de IA (seção Produção e liberdade criativa).
+1. Perfil dos clientes atuais e o perfil mais importante para o negócio (seções 2 e 3).
+2. Ação de conversão principal e o que conta como oportunidade comercial (seção 12).
+3. Perfil do Instagram (@) e as métricas atuais além dos seguidores: alcance, visualizações por Reel, seguidores ganhos por mês e contatos (seção 12).
+4. Serviços além da venda: se a Vilela trabalha com locação, administração, avaliação ou assessoria de financiamento (seção 1).
+5. Capacidade de produção: tempo por semana, equipamento, quem pode atuar, ferramentas de IA e acesso a imóveis para gravar (seção Produção e liberdade criativa).
 6. Diferenciais reais da Vilela e por que os clientes a escolhem (seção 6).
 7. Objeções e perguntas que mais aparecem no atendimento (seções 4, 7 e 9).
 8. De 10 a 20 amostras de textos, legendas e vídeos para definir a voz (seção 10).
@@ -270,5 +289,6 @@ Em ordem de importância para o sistema funcionar:
 
 ## Changelog
 
+- v3 (2026-10-31) — Confirmados: cerca de 3.400 seguidores, tipos de imóvel (casas, sobrados, apartamentos, terrenos, salões comerciais), nenhum trabalho com lançamentos e frequência de referência de 9 Reels por semana como variável flexível. Adicionados o cálculo do ritmo até a meta, o método de ajuste da frequência e personas hipotéticas para terrenos e salões comerciais.
 - v2 (2026-10-31) — Confirmados: faixa de preço (R$ 245 mil a R$ 700 mil, referência geral), liberdade criativa com formatos não tradicionais, meta de 4.000 seguidores até o fim de 2026 com foco também em alcance qualificado e oportunidades, e produção feita pelo Bruno. Nova seção Produção e liberdade criativa; lista de lacunas atualizada.
 - v1 (2026-10-31) — Versão inicial. Estrutura das 14 seções do product-marketing adaptada ao mercado imobiliário brasileiro; região de atuação e objetivo confirmados; demais itens marcados como hipótese ou a preencher.
