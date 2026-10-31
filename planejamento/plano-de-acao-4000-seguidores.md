@@ -12,7 +12,7 @@ Etiquetas: **[FATO]** vem dos dados da Vilela. **[HIPÓTESE]** precisa de teste.
 
 | O que | Número | Fonte |
 |---|---|---|
-| Seguidores | cerca de 3.400 | Informado em 31/10. **Confirmar o número exato no Insights** |
+| Seguidores | **3.355** | Lido no perfil em 31/10, 20h |
 | Seguidores atribuídos a Reels | 87 em 88 dias (6,9 por semana) | Exportação do Meta |
 | Crescimento líquido da conta no período | **desconhecido** | Pendente. Pode ser maior que 87 se vieram seguidores de outras origens |
 | Visualizações por semana | cerca de 7.800 | 98.084 em 12,6 semanas |
@@ -36,7 +36,7 @@ Etiquetas: **[FATO]** vem dos dados da Vilela. **[HIPÓTESE]** precisa de teste.
 
 ## 2. Distância até 4.000
 
-- Faltam **cerca de 600 seguidores** (confirmar a base).
+- Faltam **645 seguidores** (base de 3.355 lida em 31/10). Os cálculos abaixo usam 600 e ficam cerca de 7% otimistas.
 - De 31/10 a 31/12 são **61 dias (8,7 semanas)**.
 - Ritmo necessário: **9,8 por dia, 69 por semana**.
 - Ritmo atribuído a Reels hoje: **1 por dia, 6,9 por semana**. A meta pede **10 vezes** o ritmo atual.

@@ -426,3 +426,34 @@ Pedido do Bruno: "por que meus últimos vídeos não estão performando". Conte�
 - **[OBSERVADO]** Nas fichas dos vídeos vistos (#90, #93, #94), o gancho mais forte está escondido ou atrasado.
 - **[HIPÓTESE]** A queda combina ritmo maior com o mesmo formato (tour), duplicações e ganchos fracos nos primeiros segundos. Só a retenção aos 3 s e a % de não seguidores do Insights separam essas causas.
 - **[PENDÊNCIA]** Retenção, % de não seguidores e origem das views dos Reels de 17 a 30/10.
+
+## Adendo 2 (31/10, 20h): leitura direta do Instagram
+
+Dados lidos no painel profissional do perfil, com acesso do Bruno, sem nenhuma alteração na conta.
+
+### Perfil
+
+- **[OBSERVADO]** 3.355 seguidores (não 3.400), 789 posts. Bio: "desde 1988". As legendas citam "Desde 1993" e "4 décadas" (pendência da seção 14 do contexto, agora com uma terceira data).
+- **[OBSERVADO]** Destaques: Entrega de chaves, Bairros, Quem somos, Equipe Jurídica. A grade é quase toda de capas "COMPRE [bairro]" com cômodo vazio ou "COMPRE REF: [código]", com aparência de anúncio de portal.
+- **[OBSERVADO]** Últimos 30 dias: 168.149 visualizações (85,6% de não seguidores), 2.117 interações (60,2% de seguidores), 1.999 visitas ao perfil, 223 toques em links. Horários mais ativos dos seguidores: 9h a 15h, com pico às 15h.
+
+### Anúncios turbinados misturados à planilha
+
+A aba "Ferramentas para anúncios" mostra turbinações em Reels que estão na planilha de 94 Reels, e a exportação soma views pagas e orgânicas:
+
+| Reel na planilha | Turbinação | Views pagas | Resultado do anúncio | Onde foi visto |
+|---|---|---|---|---|
+| #08 Jardim Independência (15.639 views no total) | 23/08, 5 dias, R$ 96,94, público semelhante aos seguidores | 13.896 (**89% do total**) | 2.378 visitas ao perfil (R$ 0,04 cada), seguidores "--" | 34,7% no estado de SP |
+| #54 Entrega de chaves (6.205 views, 23 seguidores) | 24/10, 3 dias, R$ 52,69, público semelhante | 4.275 (**69%**) | **21 dos 23 seguidores**, 223 visitas, 226 cliques | 73,8% SP |
+| #68 Vila Zelina (2.197 views) | 25/10, 4 dias, R$ 61,54, público por direcionamento | 1.119 (cerca de metade) | 3 conversas iniciadas (R$ 20,51 cada) | 74,4% SP |
+| Reel não identificado (25 curtidas) | 22/08, 4 dias, R$ 137,83 | 1.584 | 14 conversas (R$ 9,85 cada), 1 seguidor | 65,4% SP |
+| Reel não identificado | 22/08, R$ 108,10 | 1.421 | não lido | não lido |
+
+Há também uma turbinação ativa (R$ 140, público semelhante, termina em 5 dias) com R$ 0 gasto no momento da leitura.
+
+- **[CONCLUSÃO]** Os dois "fora da curva" do diagnóstico, #08 e #54, foram turbinados. As conclusões que dependiam deles (os 2 mais vistos tiveram a menor interação; 2 conteúdos trouxeram 37% dos seguidores; o #54 como único caso de história de cliente que trouxe seguidores) **descrevem anúncios, não alcance orgânico**.
+- **[OBSERVADO]** Descontando as views e os seguidores pagos conhecidos: mediana orgânica de 1.264 views; seguidores por 1.000 views orgânicas: agosto 1,13 (inclui os 9 seguidores do #08, cuja origem paga ou orgânica não aparece), setembro 0,76, 01–16/10 0,74, 17–26/10 0,66. A conversão orgânica nunca foi alta e vem caindo devagar. O salto de setembro era o anúncio do #54.
+- **[OBSERVADO]** Nos 3 Reels mais recentes abertos (26/10 "Cansou do vizinho", 29/10 Jardim Grimaldi, 31/10), 50% a 70% das views vieram de **seguidores**. O Instagram está mostrando os vídeos novos principalmente para quem já segue.
+- **[OBSERVADO]** Os anúncios com público semelhante foram exibidos em grande parte fora de SP (no #08, 65% fora do estado).
+- **[HIPÓTESE]** A queda recente vem de os vídeos não passarem do teste com não seguidores: o Instagram mostra para a base, a resposta não basta, e a distribuição para. A retenção aos 3 s (só no app) confirma ou derruba.
+- **[PENDÊNCIA]** Retenção e tempo médio dos Reels de outubro (aparecem só no app); quais Reels foram turbinados em 22/08; lista de anúncios do Gerenciador de Anúncios, se houver campanhas fora do app.
