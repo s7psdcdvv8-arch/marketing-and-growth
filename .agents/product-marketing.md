@@ -1,6 +1,6 @@
 # Contexto de Marketing: Vilela Imóveis
 
-**Document version:** v1
+**Document version:** v2
 **Last updated:** 2026-10-31
 **Base metodológica:** skill `product-marketing` de [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) (v2.14.0, licença MIT), usada sem alterações no original. Este arquivo segue as 14 seções do modelo, na mesma ordem, adaptadas ao mercado imobiliário brasileiro. O nome original de cada seção aparece entre parênteses.
 
@@ -20,8 +20,9 @@ Regras para todas as skills:
 
 1. **Não inventar** dados sobre a empresa, clientes, imóveis, preços, resultados ou operação. Se faltar informação, perguntar.
 2. **Regras de marketing não são leis.** Recomendações das skills (horários, frequência, duração, fórmulas de gancho) valem como hipóteses até serem confirmadas pelos dados da própria Vilela.
-3. **Espaço para experimentar.** Parte da pauta deve ficar livre para formatos novos ou fora do padrão. Um formato só vira regra depois de testado e registrado em Aprendizados. A proporção dessa reserva ainda será definida [A PREENCHER].
+3. **Liberdade criativa.** A Vilela não quer ficar presa aos formatos tradicionais de imobiliária. Humor, atores, inteligência artificial, storytelling, situações encenadas, reacts, takes, tours e formatos experimentais são permitidos. [CONFIRMADO] Nenhuma skill deve descartar um formato por não ser "de imobiliária". Um formato só vira regra depois de testado e registrado em Aprendizados. A proporção da pauta reservada a experimentos ainda será definida. [A PREENCHER]
 4. **Casos reais de clientes** só com autorização expressa do cliente (LGPD). Nunca expor dados pessoais, endereço exato de imóvel habitado ou valores negociados sem consentimento.
+5. **Roteiros executáveis.** Quem grava e edita os vídeos é o Bruno. [CONFIRMADO] Todo roteiro deve ser viável para uma pessoa produzir, respeitando o tempo, o equipamento e as pessoas disponíveis (ver seção Produção e liberdade criativa).
 
 ---
 
@@ -32,7 +33,8 @@ Regras para todas as skills:
 **Categoria (como o cliente nos procura):** imobiliária ou corretor na Zona Leste de São Paulo. [HIPÓTESE]
 **Tipo de negócio:** serviço local. [CONFIRMADO]
 **Modelo de receita:** [A PREENCHER] (por exemplo, comissão de venda, taxa de administração de locação)
-**Tipos de imóvel e faixas de preço em que atuamos:** [A PREENCHER]
+**Faixa de preço:** imóveis de aproximadamente R$ 245 mil a R$ 700 mil. É uma referência geral, não um limite absoluto. [CONFIRMADO]
+**Tipos de imóvel (apartamento, casa, novo, usado, na planta, locação):** [A PREENCHER]
 **Tamanho da operação (corretores, CRECI da empresa e dos corretores, tempo de mercado):** [A PREENCHER]
 
 ### Região de atuação
@@ -164,6 +166,8 @@ O método original pede que a voz seja tirada de textos que já funcionaram, e n
 |---|---|---|---|
 | [A PREENCHER] | | | |
 
+Humor e situações encenadas são permitidos no conteúdo [CONFIRMADO], mas os atributos de voz ainda precisam ser definidos a partir de amostras reais.
+
 **Tom por contexto:**
 - Instagram e Reels: [A PREENCHER]
 - DM e WhatsApp: [A PREENCHER]
@@ -192,7 +196,9 @@ Só entram provas verificáveis e autorizadas.
 **Objetivo do sistema:** construir um sistema de inteligência e criação de conteúdo imobiliário para a Vilela Imóveis, com foco em crescimento no Instagram, alcance qualificado, retenção, seguidores e geração de oportunidades comerciais. [CONFIRMADO]
 **Ação de conversão principal:** [A PREENCHER] (por exemplo, DM, clique para o WhatsApp, agendamento de visita, cadastro de imóvel para venda)
 **O que conta como oportunidade comercial:** [A PREENCHER]
-**Métricas atuais (seguidores, alcance médio, visualizações por Reel, contatos por mês):** [A PREENCHER]
+**Meta de seguidores:** chegar a 4.000 seguidores no Instagram até o final de 2026 (31/12/2026). [CONFIRMADO]
+**Metas que acompanham os seguidores:** alcance qualificado, potenciais compradores, reconhecimento da marca e oportunidades comerciais. Seguidores não são o único critério de sucesso. [CONFIRMADO]
+**Métricas atuais (seguidores hoje, alcance médio, visualizações por Reel, contatos por mês):** [A PREENCHER]. Sem o número atual de seguidores não dá para calcular o ritmo de crescimento necessário até a meta.
 **Perfil do Instagram:** [A PREENCHER]
 
 Métricas propostas para acompanhar [HIPÓTESE, a confirmar]: visualizações do Reel em relação à mediana da conta, retenção, envios, salvamentos, seguidores vindos do Reel, visitas ao perfil, DMs e contatos no WhatsApp.
@@ -202,6 +208,31 @@ Métricas propostas para acompanhar [HIPÓTESE, a confirmar]: visualizações do
 **A Vilela faz anúncios hoje?** [A PREENCHER]
 Se sim: orçamento mensal, custo por contato aceitável, o que conta como contato qualificado e o que o agente pode ou não fazer sem aprovação. [A PREENCHER]
 Regra fixa: nenhum anúncio é publicado, pausado ou alterado sem aprovação. [CONFIRMADO pelo método original]
+
+## Produção e liberdade criativa (adição)
+
+Seção que não existe no original, criada porque a produção define o que é viável.
+
+**Quem produz:** o Bruno é responsável pela gravação e pela edição dos vídeos. [CONFIRMADO]
+**Formatos permitidos:** humor, atores, inteligência artificial, storytelling, situações encenadas, reacts, takes, tours e formatos experimentais. [CONFIRMADO]
+**Princípio:** as estratégias e os roteiros devem permitir criatividade e experimentação sem depender de estruturas impossíveis de executar. [CONFIRMADO]
+
+O que um roteiro deve informar para ser executável [HIPÓTESE, proposta a validar na prática]:
+- quantas pessoas aparecem e se há atores;
+- locações (imóvel, rua, escritório) e se dependem de autorização;
+- se é possível gravar sozinho ou se precisa de ajuda;
+- trechos feitos com IA e com qual ferramenta;
+- tempo estimado de gravação e de edição.
+
+Ainda falta saber [A PREENCHER]:
+- tempo disponível por semana para gravar e editar;
+- quantos Reels por semana são viáveis com qualidade;
+- equipamento e software de edição usados;
+- quem pode atuar (equipe, amigos, atores contratados);
+- ferramentas de IA já usadas ou disponíveis;
+- acesso a imóveis para gravar (próprios da carteira, decorados, autorização de proprietários).
+
+**Cuidados com IA e encenação** [HIPÓTESE, a confirmar]: cenas geradas por IA ou encenadas não devem passar a impressão de mostrar um imóvel real, um cliente real ou um resultado real quando não mostram. Quando houver risco de confusão, deixar claro que é encenação ou imagem ilustrativa.
 
 ## 14. Aprendizados (Learnings)
 
@@ -225,17 +256,19 @@ Seção que não existe no original, criada para o mercado brasileiro:
 
 Em ordem de importância para o sistema funcionar:
 
-1. Serviços oferecidos, tipos de imóvel e faixas de preço (seção 1).
-2. Perfil dos clientes atuais e o perfil mais importante para o negócio (seções 2 e 3).
-3. Ação de conversão principal e o que conta como oportunidade comercial (seção 12).
-4. Perfil do Instagram e métricas atuais (seção 12).
-5. Diferenciais reais da Vilela e por que os clientes a escolhem (seção 6).
-6. Objeções e perguntas que mais aparecem no atendimento (seções 4, 7 e 9).
-7. De 10 a 20 amostras de textos, legendas e vídeos para definir a voz (seção 10).
-8. Provas autorizadas: números, depoimentos e casos (seção 11).
-9. Concorrentes e contas de referência no Instagram (seção 5).
-10. Dados por bairro (seção 1) e se há anúncios pagos (seção 13).
+1. Número atual de seguidores, perfil do Instagram e métricas atuais, para medir o ritmo até a meta de 4.000 (seção 12).
+2. Serviços oferecidos e tipos de imóvel (seção 1). A faixa de preço já foi confirmada.
+3. Perfil dos clientes atuais e o perfil mais importante para o negócio (seções 2 e 3).
+4. Ação de conversão principal e o que conta como oportunidade comercial (seção 12).
+5. Capacidade de produção: tempo por semana, Reels viáveis, equipamento, quem pode atuar e ferramentas de IA (seção Produção e liberdade criativa).
+6. Diferenciais reais da Vilela e por que os clientes a escolhem (seção 6).
+7. Objeções e perguntas que mais aparecem no atendimento (seções 4, 7 e 9).
+8. De 10 a 20 amostras de textos, legendas e vídeos para definir a voz (seção 10).
+9. Provas autorizadas: números, depoimentos e casos (seção 11).
+10. Concorrentes e contas de referência no Instagram (seção 5).
+11. Dados por bairro (seção 1), se há anúncios pagos (seção 13) e a proporção da pauta reservada a experimentos.
 
 ## Changelog
 
+- v2 (2026-10-31) — Confirmados: faixa de preço (R$ 245 mil a R$ 700 mil, referência geral), liberdade criativa com formatos não tradicionais, meta de 4.000 seguidores até o fim de 2026 com foco também em alcance qualificado e oportunidades, e produção feita pelo Bruno. Nova seção Produção e liberdade criativa; lista de lacunas atualizada.
 - v1 (2026-10-31) — Versão inicial. Estrutura das 14 seções do product-marketing adaptada ao mercado imobiliário brasileiro; região de atuação e objetivo confirmados; demais itens marcados como hipótese ou a preencher.
