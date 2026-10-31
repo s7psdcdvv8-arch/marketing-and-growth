@@ -1,6 +1,6 @@
 # Contexto de Marketing: Vilela Imóveis
 
-**Document version:** v4
+**Document version:** v5
 **Last updated:** 2026-10-31
 **Base metodológica:** skill `product-marketing` de [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) (v2.14.0, licença MIT), usada sem alterações no original. Este arquivo segue as 14 seções do modelo, na mesma ordem, adaptadas ao mercado imobiliário brasileiro. O nome original de cada seção aparece entre parênteses.
 
@@ -281,7 +281,13 @@ Começa vazio. Cada linha precisa de evidência (teste, número, tamanho da amos
 
 | Data | Aprendizado | Evidência | Aplica-se a | Status |
 |---|---|---|---|---|
-| | | | | |
+| 2026-10-31 | Visualizações altas não garantem seguidores: o Reel mais visto converteu abaixo da média da conta | Jardim Independência (R$ 1,2 mi, fora da faixa): 15.639 visualizações, 0,58 seguidor por 1.000, contra 0,89 da conta. 1 caso | Métricas, social | observar |
+| 2026-10-31 | Uma história real de cliente teve a maior taxa de seguidores do período | Entrega de chaves após 20 anos: 3,71 seguidores por 1.000 visualizações (4,2× a conta), 23 dos 87 seguidores. 1 caso | Roteiro, social | observar |
+| 2026-10-31 | Um Reel de imóvel na região gerou muito mais conversa e compartilhamento que a média | Apartamento na Vila Ema: comentários 5,1× e compartilhamentos 3,1× a taxa da conta. Teor dos comentários não verificado. 1 caso | Social, customer-research | observar |
+| 2026-10-31 | A mediana é a referência para comparar Reels nesta conta, não a média | Média 1.043 contra mediana 897,5. 2 Reels concentram 22% das visualizações. 94 Reels | Métricas, todas as skills | ativo |
+| 2026-10-31 | Reels abaixo de 100 visualizações ficam fora das comparações criativas até serem explicados | 24 Reels abaixo de 100 contra 11 entre 100 e 499, sugerindo causa de distribuição (republicação, teste, arquivamento). 94 Reels | Métricas, diagnóstico | ativo |
+
+Diagnóstico completo, com o teste das hipóteses: [`diagnosticos/2026-10-31-reels-ago-out.md`](../diagnosticos/2026-10-31-reels-ago-out.md).
 
 ---
 
@@ -312,6 +318,7 @@ Em ordem de importância para o sistema funcionar:
 
 ## Changelog
 
+- v5 (2026-10-31) — Primeiros aprendizados do diagnóstico dos 94 Reels de 04/08 a 30/10 (versão parcial, sem a planilha por Reel): 3 em observação e 2 regras de medição ativas.
 - v4 (2026-10-31) — Confirmados: venda e locação, com Reels voltados só à venda; conversão principal pelo WhatsApp com qualificação de leads pela Sweer; acesso ao Instagram Insights com dados de 90 dias. Adicionada a seção Como medir sucesso, que liga o Reel ao lead qualificado e à venda; lacunas reordenadas pela coleta de dados reais.
 - v3 (2026-10-31) — Confirmados: cerca de 3.400 seguidores, tipos de imóvel (casas, sobrados, apartamentos, terrenos, salões comerciais), nenhum trabalho com lançamentos e frequência de referência de 9 Reels por semana como variável flexível. Adicionados o cálculo do ritmo até a meta, o método de ajuste da frequência e personas hipotéticas para terrenos e salões comerciais.
 - v2 (2026-10-31) — Confirmados: faixa de preço (R$ 245 mil a R$ 700 mil, referência geral), liberdade criativa com formatos não tradicionais, meta de 4.000 seguidores até o fim de 2026 com foco também em alcance qualificado e oportunidades, e produção feita pelo Bruno. Nova seção Produção e liberdade criativa; lista de lacunas atualizada.
