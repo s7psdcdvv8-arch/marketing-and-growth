@@ -18,6 +18,6 @@ Esta pasta registra como as skills externas são adaptadas para a Vilela Imóvei
 | ad-creative (hook system) | Ganchos com 3 componentes | Pendente | Não iniciada |
 | content-strategy | Pauta da semana | Pendente | Não iniciada |
 | copywriting | Regras de escrita | Pendente | Não iniciada |
-| reverse-engineer-marketing (content-teardown) | Estudo de contas de referência | Pendente | Não iniciada |
+| reverse-engineer-marketing (content-teardown) | Estudo de contas de referência | [`pesquisa/`](../pesquisa/README.md) (com `video/edit-anatomy` e storytelling-frameworks) | Estrutura pronta, coleta não iniciada |
 
 Versão de referência das skills originais: marketingskills v2.14.0 (commit `88c79f6`).
