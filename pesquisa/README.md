@@ -2,7 +2,7 @@
 
 Estrutura para estudar Reels de referência e transformar o que funciona em hipóteses testáveis para a Vilela Imóveis. **Não é uma coleção de vídeos virais.** Cada referência é classificada pelo mesmo vocabulário, com o resultado medido em relação à própria conta, para que seja possível contar padrões e separar o que foi visto do que é interpretação.
 
-Status: estrutura pronta, coleta externa ainda não iniciada. Calendário de conteúdo: fora do escopo desta etapa.
+Status (2026-10-31): biblioteca v1 com 62 conteúdos da Vilela (5 vistos quadro a quadro) e 27 referências externas com fonte (nenhuma assistida). Síntese em [`padroes.md`](padroes.md). Coleta automática pronta, à espera da chave.
 
 ## Arquivos
 

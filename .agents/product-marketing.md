@@ -339,6 +339,7 @@ Fonte de todas as linhas abaixo: diagnóstico de 2026-10-31, 94 Reels de 04/08 a
 | 2026-10-31 | **Motivo de cada uma das 32 publicações duplicadas.** Não se presume que foram erro, teste ou repostagem intencional: o motivo fica em aberto até ser confirmado, par a par (lista no diagnóstico, seção 2) | Define se a duplicação é uma prática a manter, corrigir ou testar, e como ler a hipótese sobre distribuição | aberta |
 | 2026-10-31 | Dados de retenção dos melhores e piores conteúdos | Sem eles, não dá para avaliar ganchos nem edição | aberta |
 | 2026-10-31 | Teor dos comentários de #52, #58, #87, #74 e #08 | Separar curiosidade de intenção de compra | aberta |
+| 2026-10-31 | Tempo de empresa e tamanho do estoque: o Reel #94 diz "Desde 1993" e "~1.000 imóveis"; outras legendas dizem "4 décadas" | Esses números só entram como fato depois de confirmados | aberta |
 | 2026-10-31 | Origem dos contatos do WhatsApp e da Sweer | Ligar Reels a oportunidades comerciais | aberta |
 
 Linhas da versão parcial (v5) substituídas: "Reels abaixo de 100 ficam fora até serem explicados", "mediana 897,5", "uma história de cliente teve a maior taxa de seguidores", "Vila Ema gerou mais conversa" e "views altas não garantem seguidores". Todas foram refeitas acima com os dados por Reel.
