@@ -220,12 +220,12 @@ Caminho do Reel até a venda, em etapas [HIPÓTESE, a ajustar com os dados reais
 
 **Ponto crítico:** as etapas 1 a 3 aparecem no Insights, mas as etapas 4 a 6 só podem ser ligadas aos Reels se a origem de cada contato for registrada. Ainda não se sabe se a Sweer registra de qual Reel ou post o lead veio. [A PREENCHER] Formas possíveis de registrar a origem, a validar [HIPÓTESE]: mensagem pré-preenchida no link do WhatsApp com um código por Reel ou campanha, pergunta de origem no atendimento e anotação manual dos leads que citam um vídeo.
 
-**Dados disponíveis:** o Bruno tem acesso ao Instagram Insights e pode fornecer dados de desempenho dos conteúdos, inclusive prints e informações dos últimos 90 dias. [CONFIRMADO] Esses dados ainda não foram enviados. [A PREENCHER]
+**Dados disponíveis:** o Bruno tem acesso ao Instagram Insights e pode fornecer dados de desempenho dos conteúdos, inclusive prints e informações dos últimos 90 dias. [CONFIRMADO] A exportação por Reel de 04/08 a 30/10/2026 foi recebida em 2026-10-31 [CONFIRMADO]; dados de retenção ainda não. [A PREENCHER]
 **Meta de seguidores:** chegar a 4.000 seguidores no Instagram até o final de 2026 (31/12/2026). [CONFIRMADO]
 **Metas que acompanham os seguidores:** alcance qualificado, potenciais compradores, reconhecimento da marca e oportunidades comerciais. Seguidores não são o único critério de sucesso. [CONFIRMADO]
 **Seguidores hoje:** aproximadamente 3.400 (informado em 2026-10-31). [CONFIRMADO]
 **Ritmo necessário até a meta (cálculo):** faltam cerca de 600 seguidores em 61 dias (1/11 a 31/12/2026), ou seja, em média cerca de 10 por dia, 70 por semana ou 300 por mês. É uma conta simples, não uma previsão: o crescimento real costuma vir em picos, puxado por Reels que se destacam.
-**Outras métricas atuais (alcance médio, visualizações por Reel, seguidores ganhos por mês, contatos por mês):** [A PREENCHER]
+**Métricas atuais (04/08 a 30/10/2026, da exportação):** mediana de 1.278 visualizações por conteúdo único (62 conteúdos, 94 publicações); 87 seguidores atribuídos a Reels em 88 dias (cerca de 1 por dia); por 1.000 visualizações: 0,89 seguidor, 4,95 compartilhamentos, 2,08 comentários, 1,60 salvamento. [CONFIRMADO] Contatos por mês e crescimento líquido de seguidores: [A PREENCHER]
 **Perfil do Instagram:** @grupovilelaimoveis ("Vilela Imóveis | imobiliária- zona leste") [CONFIRMADO pela exportação do Meta Business Suite]
 
 Métricas por Reel para acompanhar [HIPÓTESE, a confirmar]: visualizações em relação à mediana da conta, retenção, envios, salvamentos, seguidores vindos do Reel, visitas ao perfil, contatos no WhatsApp e leads qualificados atribuídos ao Reel.
