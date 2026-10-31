@@ -25,3 +25,17 @@ Medianas aproximadas, calculadas pelos Reels visíveis na aba de cada conta (sem
 ## Limitações
 - Sem áudio, sem retenção e sem saber se houve anúncio.
 - Contas estrangeiras e de alto padrão: copiar só o mecanismo de abertura.
+
+## Outros estilos de vídeo (rodada 2, mesmo dia)
+
+Além de tour, takes e primeira pessoa. Linhas EXT-037 a EXT-040 da biblioteca.
+
+| Estilo | Exemplo | Como é | Versão Vilela | Força da evidência |
+|---|---|---|---|---|
+| **Drone FPV com reação** | @invista.videos, casa de R$ 3,5 mi (1 mil comentários, 2,5 mil repostagens) | Tela dividida: o voo do drone atravessando a casa em cima, o piloto reagindo embaixo | Contratar um piloto de FPV para 1 imóvel com quintal ou sobrado grande; Bruno ou o cliente reagindo embaixo | Média (views não visíveis) |
+| **Frente vs fundos** | @mr_real.estate (33,8 mil · ~4× a mediana), 12 s | Fachada comum com o título "a frente × os fundos" e, de repente, o quintal | Sobrado com fachada simples e quintal grande: "A frente × os fundos dessa casa na Vila Formosa". Vídeo curto, de 10 a 15 s | Boa (múltiplo conhecido) |
+| **Anfitrião com bordão** | @monica.poplawski (4,3 mil comentários) | Corretora recebe como anfitriã com uma frase fixa ("Bem-vindos ao luxo hoje direto de…") | Uma frase fixa da Vilela no 1º segundo de todo tour, para criar marca (ex.: "Bem-vindo à Zona Leste de verdade") | Média (views não visíveis) |
+| **Clipe de bairro** | @tacomajones (548 mil · ~270× a mediana), 13 s | Momento local sem imóvel nenhum (jogo do time da escola à noite), uma linha de texto | Momentos reais da região: jogo na Rua Javari, festa de San Gennaro, feira da Vila Prudente. Atrai o público local, que é quem compra na região | Boa, mas é um caso só |
+| **Antes e depois de reforma** | @sisepanama (8 comentários) | O mesmo ambiente antes e depois | Só com imóvel reformado de verdade e com as imagens do antes | Fraca (exemplo achado foi fraco) |
+
+**O que não entrou:** os vídeos de humor do @corretordadepressao vistos nesta rodada são memes com vídeo de terceiros e não mostram imóvel.
