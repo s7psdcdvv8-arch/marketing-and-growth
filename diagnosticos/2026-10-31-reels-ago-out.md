@@ -407,3 +407,22 @@ Métricas somadas quando há cópia. Taxas por 1.000 visualizações. A versão 
 | 82 | 23/10 | 50s | 297 | 208 | 0 | 2 | 2 | 0 | 0,00 | 6,73 | 6,73 | 0,00 | educativo | motion design (provável) | pergunta | #81 | Quanto custa comprar um imóvel além do preço? 🏠💸 Num im |
 | 94 | 30/10 | 47s | 131 | 93 | 0 | 2 | 0 | 0 | 0,00 | 15,27 | 0,00 | 0,00 | educativo | motion design | provocação aluguel | — | Você já está pagando um apartamento. Só que ele é do se (recente) |
 | 11 | 11/08 | 59s | 19 | 16 | 0 | 0 | 0 | 0 | 0,00 | 0,00 | 0,00 | 0,00 | sem legenda | não identificado | sem legenda | — |  |
+## Adendo (31/10, 19h): por que os últimos vídeos caíram
+
+Pedido do Bruno: "por que meus últimos vídeos não estão performando". Conteúdos únicos (cópias somadas), por período:
+
+| Período | Conteúdos | Mediana de views | Seguidores por 1.000 | Compart. por 1.000 | Sem nenhum seguidor |
+|---|---|---|---|---|---|
+| Agosto | 19 | 1.389 | 0,74 | 4,33 | 7 |
+| Setembro | 19 | 1.377 | 1,34 | 5,99 | 8 |
+| 01–16/10 | 11 | 1.232 | 0,68 | 4,44 | 6 |
+| 17–26/10 | 8 | 937 | 0,66 | 4,92 | 6 |
+| 27–30/10 (1 a 4 dias no ar, números incompletos) | 5 | 765 | 0,00 | 5,38 | 5 |
+
+- **[OBSERVADO]** A queda é real a partir de 17/10: mediana 27% abaixo da conta e 6 de 8 conteúdos sem seguidor. Os compartilhamentos por 1.000 não caíram: quem vê continua reagindo; o que caiu foi a distribuição e a conversão em seguidor.
+- **[OBSERVADO]** As semanas 43 e 44 tiveram 6 conteúdos cada; agosto e setembro tiveram de 3 a 5.
+- **[OBSERVADO]** 7 dos 13 conteúdos desde 17/10 foram publicados duas vezes (motivo: pendência da seção 2).
+- **[OBSERVADO]** Os 3 conteúdos em motion design ou educativos do período: #85 (1.837), #75 (787), #82 (297); o #94 tem 131 com 1 dia.
+- **[OBSERVADO]** Nas fichas dos vídeos vistos (#90, #93, #94), o gancho mais forte está escondido ou atrasado.
+- **[HIPÓTESE]** A queda combina ritmo maior com o mesmo formato (tour), duplicações e ganchos fracos nos primeiros segundos. Só a retenção aos 3 s e a % de não seguidores do Insights separam essas causas.
+- **[PENDÊNCIA]** Retenção, % de não seguidores e origem das views dos Reels de 17 a 30/10.
