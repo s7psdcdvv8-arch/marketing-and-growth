@@ -70,8 +70,27 @@ E duas perguntas que vêm do diagnóstico da Vilela:
 - O que as contas fortes fazem para converter alcance em seguidores (na Vilela, 32 de 62 conteúdos não trouxeram seguidor)?
 - Como as contas fortes usam histórias de clientes (na Vilela, só 1 de 5 trouxe seguidores)?
 
-## O que falta para começar a coleta externa
+## Coleta automática
 
-- **Contas de referência.** Nenhuma conta externa foi indicada até agora. A única localizada é a corretora citada pelo Jornal do Comércio, ainda sem @.
-- **Acesso aos vídeos.** O Instagram não pode ser assistido daqui. Os caminhos são: o Bruno envia links e gravações de tela (ou os arquivos), ou uma ferramenta paga de coleta é configurada (ver [`fontes.md`](fontes.md)).
-- **Vídeos da própria Vilela.** Para analisar gancho e edição dos melhores e piores conteúdos (#08, #54, #87, #52, #74, #24, #85 e #78, #82, #64, #75, #91), é preciso o arquivo ou a gravação de cada um.
+Ferramenta escolhida em 2026-10-31: ScrapeCreators (pago por crédito). Arquivos em [`coleta/`](coleta/):
+
+| Arquivo | Conteúdo |
+|---|---|
+| [`coletar.py`](coleta/coletar.py) | Puxa os Reels de cada conta, calcula a mediana, escolhe os 3 mais fortes e os 3 mais fracos, baixa legenda, transcrição, comentários e vídeo, extrai quadros do gancho e uma folha de contato, e acrescenta as linhas na biblioteca (nível V3 até alguém assistir) |
+| [`contas.csv`](coleta/contas.csv) | 18 contas candidatas, cada uma com fonte verificável. 8 do Instagram estão prontas para coleta; as outras precisam do @ ou de verificação |
+| [`vilela-selecao.csv`](coleta/vilela-selecao.csv) | 17 Reels da Vilela escolhidos para análise audiovisual, em pares de contraste |
+
+Rodar (com a chave e a rede liberadas):
+
+```
+python3 pesquisa/coleta/coletar.py --contas pesquisa/coleta/contas.csv --especificos pesquisa/coleta/vilela-selecao.csv --estimar   # só estima os créditos
+python3 pesquisa/coleta/coletar.py --contas pesquisa/coleta/contas.csv --especificos pesquisa/coleta/vilela-selecao.csv
+```
+
+Estimativa da primeira rodada: até 219 créditos (8 contas e 17 Reels da Vilela). O script foi testado só com respostas simuladas; o primeiro uso real pode exigir ajustes.
+
+## O que falta
+
+- **Configurar a ferramenta:** chave `SCRAPECREATORS_API_KEY` e acesso de rede a `api.scrapecreators.com`, `*.cdninstagram.com` e `*.fbcdn.net` num ambiente próprio do projeto. Sem isso, a coleta não roda.
+- **Contas locais.** Nenhuma conta da Zona Leste foi encontrada com fonte verificável. As concorrentes e contas da região que o Bruno acompanha entram direto no `contas.csv`.
+- **TikTok.** Duas contas candidatas já estão listadas; o script cobre só Instagram por enquanto.
