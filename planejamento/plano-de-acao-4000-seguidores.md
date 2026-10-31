@@ -317,6 +317,19 @@ Orgânico e pago nunca entram no mesmo número. Contatos de WhatsApp só contam 
 4. Ajustar o calendário da semana seguinte.
 5. Uma vez por mês: levar o que mudou para a seção 14 do contexto.
 
+## Padrão de tour
+
+Regra do Bruno (31/10): **todo tour segue este estilo**, inspirado no molde da conta [@victorvesete](../pesquisa/fichas/conta-victorvesete.md). O mecanismo é copiado; texto, falas e identidade são da Vilela.
+
+1. **1º quadro na fachada** (ou no ponto mais forte do imóvel), com a pessoa de corpo inteiro, de frente, numa cena humana ou incomum.
+2. **2 linhas de texto grande no centro** desde o 1º quadro: tipo + bairro / preço ("APENAS R$…") ou o número mais forte ("5 VAGAS + 4 DORMS"). Sempre o mesmo estilo de letra e cor, para a série ser reconhecida.
+3. **Preço dito logo de cara.** Nunca guardado para o fim.
+4. **Tour conversado e sem pressa** (1 a 3 min), com a pessoa perto da câmera e legenda simples embaixo.
+5. **Sem capa "COMPRE [bairro]"** e sem vinheta no começo.
+6. **Coautoria** com outro perfil quando houver (corretor, proprietário, comércio), para somar as duas bases.
+
+Isso vale para os tours do calendário (pilares de quinta e "Não é lenda"). Os outros formatos (take, comparação, curiosidade, história) mantêm o próprio roteiro.
+
 ## 12. Contingência
 
 Leitura: duas semanas seguidas abaixo de 70% do piso = **abaixo**. Entre o piso e o alvo = **dentro**. Acima do alvo = **acima**.
