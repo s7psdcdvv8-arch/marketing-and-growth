@@ -103,7 +103,7 @@ Três movimentos, nesta ordem de impacto:
 - **Objetivo:** seguidores. **CTA:** "Toda segunda eu mostro um desses. Segue pra não perder o próximo."
 - **Por quê:** é o sinal externo mais consistente (EXT-006, EXT-015, EXT-016) somado ao modelo do VIL-93 e ao dado de que pessoa em cena e preço de entrada geram interação na Vilela (#52, #58). Feriado de Finados: ler com cuidado.
 
-**03/11 ter · Take: o erro do primeiro apê** · Formato: take (F04)
+**03/11 ter · Opinião: o erro do primeiro apê** · Formato: opinião falada para a câmera (F04; não confundir com o padrão de takes)
 - **Ideia:** uma opinião clara sobre um erro que a equipe vê de verdade em compradores de primeiro imóvel (ex.: escolher pelo valor da parcela sem somar condomínio e IPTU).
 - **Gancho:** "O erro que eu mais vejo em quem compra o primeiro apê na Zona Leste." Falado olhando para a câmera, já no 1º segundo.
 - **Desenvolvimento:** o erro → um caso real sem identificar o cliente → o que fazer no lugar → uma frase final de opinião.
@@ -329,6 +329,18 @@ Regra do Bruno (31/10): **todo tour segue este estilo**, inspirado no molde da c
 6. **Coautoria** com outro perfil quando houver (corretor, proprietário, comércio), para somar as duas bases.
 
 Isso vale para os tours do calendário (pilares de quinta e "Não é lenda"). Os outros formatos (take, comparação, curiosidade, história) mantêm o próprio roteiro.
+
+## Padrão de takes
+
+Regra do Bruno (31/10): **quando o vídeo for de takes** (imagens cinematográficas do imóvel, sem tour conversado), segue o modelo da [@molinosimoveis](../pesquisa/fichas/conta-molinosimoveis.md). Mecanismo copiado; imagens, música e texto são da Vilela.
+
+1. **Abertura com o imóvel no seu melhor ângulo** (fachada, piscina, vista, luz do fim da tarde), câmera estável e movimentos lentos.
+2. **Título curto e elegante** na tela (nome do imóvel ou do bairro), em letra fina, no começo.
+3. **Corretor como presença, não como apresentador:** sentado, andando, abrindo uma porta, sem falar para a câmera.
+4. **Trilha de música licenciada** marcando o ritmo dos cortes; cerca de 60 s.
+5. **Legenda do post começa com a ficha técnica em uma linha:** preço | código | m² | suítes | vagas | bairro. Depois, um texto descritivo curto e o contato.
+
+Cuidado medido: na Molinos, esse formato tem mediana de 3,2 mil views com 47 mil seguidores, e os picos vieram de imóveis de luxo. Na Vilela, usar takes nos imóveis com mais apelo visual e medir contra os tours.
 
 ## 12. Contingência
 
