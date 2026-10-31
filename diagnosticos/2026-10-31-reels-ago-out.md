@@ -59,16 +59,53 @@ A planilha também traz alcance (65.612) e curtidas (1.217), que não tinham sid
 - **[OBSERVADO]** Em praticamente todos os pares, uma publicação tem distribuição normal e a outra fica perto de zero. A que "ganha" foi a primeira em 13 pares e a segunda em 19. O intervalo entre as duas vai de 0 minuto a 21 horas.
 - **[OBSERVADO]** Só um par teve as duas publicações com distribuição relevante: #86 (586 views, 3 seguidores) e #87 (1.942). No par #78/#79, a primeira teve 533 e a segunda 13.
 - **[OBSERVADO]** As 32 cópias somam 2.745 views (2,8% do total) e 5 seguidores. Mesmo somadas ao conteúdo principal, quase não mudam o resultado.
-- **[OBSERVADO]** Há casos de correção: o #73 começa com "vagas com edícula?" (falta o "8") e foi republicado 25 minutos depois como #74, com a legenda correta.
+- **[OBSERVADO]** Em um par, as legendas diferem em um detalhe: a do #73 começa com "vagas com edícula?" (sem o "8") e a do #74, publicado 25 minutos depois, com "8 vagas com edícula?". Isso não prova o motivo da segunda publicação.
+- **[OBSERVADO]** O par #49/#50 é identificado só pela duração igual (31 s) e pela proximidade: o #50 está sem legenda. Precisa de confirmação como os demais.
 
-### O que ainda não sabemos
+### Pendência: o motivo de cada duplicação
 
-- **[HIPÓTESE]** As cópias com 0 a 1 visualização podem ter sido arquivadas, apagadas ou publicadas com algum erro logo em seguida.
-- **[HIPÓTESE]** As cópias com 100 a 134 views (#07, #25, #27, #30, #73, #83, #88, #92) podem ser "Reels de teste" (trial reels), que o Instagram mostra só para não seguidores. A faixa de visualizações é compatível, mas a planilha não identifica esse tipo de publicação.
-- **[HIPÓTESE]** Quando o mesmo vídeo é publicado duas vezes, o Instagram pode distribuir só uma das versões. O padrão "uma ganha, outra zera" em 31 de 32 pares é compatível com isso, mas não prova.
-- **[CONCLUSÃO]** Os Reels abaixo de 100 views **não são fracasso criativo**: com 2 exceções, são cópias de conteúdos que tiveram distribuição normal na outra versão. Por isso foram somados ao principal, e não tratados como Reels ruins.
+O motivo das 32 publicações duplicadas **não é presumido**. Não sabemos se foram erro, teste, repostagem intencional, exclusão e nova publicação, ou outra coisa, e cada par pode ter um motivo diferente. A planilha mostra só o que aconteceu com cada publicação, não por que ela foi feita. O motivo fica em aberto até ser confirmado par a par.
 
-**Pergunta para o Bruno:** o que aconteceu nesses pares? Publicou de novo de propósito, usou Reel de teste, apagou e subiu de novo, ou publicou por engano? A resposta muda a regra de publicação, não a análise.
+O que já dá para afirmar sem saber o motivo:
+
+- **[CONCLUSÃO]** Os Reels abaixo de 100 views **não devem ser lidos como fracasso criativo**: com 2 exceções, são duplicações de conteúdos que tiveram distribuição normal na outra publicação. Por isso foram somados ao principal.
+
+Lista para confirmação (a coluna "Motivo" é para preencher):
+
+| Par | Publicações (data e hora, views) | Intervalo | Legenda | Motivo |
+|---|---|---|---|---|
+| 1 | #02 (04/08 14:42, 56) e #03 (05/08 07:15, 1.196) | 16 h 33 min | igual | **a confirmar** |
+| 2 | #04 (06/08 14:45, 1.121) e #05 (06/08 16:17, 57) | 92 min | uma sem legenda | **a confirmar** |
+| 3 | #06 (09/08 05:09, 2.060) e #07 (09/08 08:15, 111) | 3 h 06 min | uma sem legenda | **a confirmar** |
+| 4 | #09 (11/08 15:21, 1.769) e #10 (11/08 15:22, 17) | 1 min | igual | **a confirmar** |
+| 5 | #12 (12/08 14:40, 26) e #13 (12/08 14:40, 1.363) | 0 min | uma sem legenda | **a confirmar** |
+| 6 | #14 (16/08 10:59, 1.353) e #15 (16/08 11:00, 1) | 1 min | igual | **a confirmar** |
+| 7 | #16 (18/08 14:21, 1.162) e #17 (18/08 14:22, 0) | 1 min | igual | **a confirmar** |
+| 8 | #18 (19/08 10:40, 1.434) e #19 (19/08 11:02, 1) | 22 min | igual | **a confirmar** |
+| 9 | #21 (20/08 10:53, 28) e #22 (20/08 13:45, 1.332) | 2 h 52 min | igual | **a confirmar** |
+| 10 | #20 (20/08 09:15, 13) e #23 (20/08 15:30, 1.126) | 6 h 15 min | igual | **a confirmar** |
+| 11 | #24 (21/08 13:40, 2.110) e #25 (21/08 13:40, 128) | 0 min | igual | **a confirmar** |
+| 12 | #26 (24/08 13:31, 1.063) e #28 (25/08 10:37, 0) | 21 h 06 min | igual | **a confirmar** |
+| 13 | #27 (25/08 10:36, 110) e #29 (25/08 14:15, 1.431) | 3 h 39 min | igual | **a confirmar** |
+| 14 | #30 (26/08 12:35, 122) e #31 (26/08 13:25, 1.618) | 50 min | igual | **a confirmar** |
+| 15 | #32 (28/08 14:00, 1) e #33 (28/08 14:00, 765) | 0 min | igual | **a confirmar** |
+| 16 | #34 (31/08 14:31, 1.523) e #35 (31/08 14:32, 0) | 1 min | igual | **a confirmar** |
+| 17 | #36 (01/09 13:30, 1.453) e #37 (01/09 13:31, 1) | 1 min | igual | **a confirmar** |
+| 18 | #38 (04/09 14:16, 1.351) e #39 (04/09 14:18, 0) | 2 min | igual | **a confirmar** |
+| 19 | #40 (09/09 14:20, 1) e #41 (09/09 14:20, 902) | 0 min | igual | **a confirmar** |
+| 20 | #42 (10/09 14:34, 0) e #43 (10/09 14:34, 1.158) | 0 min | igual | **a confirmar** |
+| 21 | #49 (17/09 12:25, 23) e #50 (18/09 07:45, 766) | 19 h 20 min | uma sem legenda | **a confirmar** |
+| 22 | #62 (04/10 18:22, 53) e #63 (05/10 10:35, 1.064) | 16 h 13 min | igual | **a confirmar** |
+| 23 | #68 (13/10 14:26, 2.197) e #69 (13/10 14:35, 86) | 9 min | igual | **a confirmar** |
+| 24 | #70 (14/10 13:27, 48) e #71 (14/10 14:15, 1.223) | 48 min | igual | **a confirmar** |
+| 25 | #73 (16/10 13:50, 123) e #74 (16/10 14:15, 1.968) | 25 min | diferente | **a confirmar** |
+| 26 | #76 (20/10 13:25, 8) e #77 (20/10 14:45, 1.036) | 80 min | igual | **a confirmar** |
+| 27 | #78 (21/10 14:53, 533) e #79 (21/10 14:54, 13) | 1 min | igual | **a confirmar** |
+| 28 | #81 (23/10 13:43, 0) e #82 (23/10 14:35, 297) | 52 min | igual | **a confirmar** |
+| 29 | #83 (24/10 06:01, 131) e #84 (24/10 06:01, 1.154) | 0 min | igual | **a confirmar** |
+| 30 | #86 (26/10 13:17, 586) e #87 (26/10 14:45, 1.942) | 88 min | igual | **a confirmar** |
+| 31 | #88 (27/10 13:40, 124) e #89 (27/10 14:25, 934) | 45 min | igual | **a confirmar** |
+| 32 | #92 (29/10 13:44, 134) e #93 (29/10 14:58, 767) | 74 min | diferente | **a confirmar** |
 
 ### Re-edições do mesmo imóvel (contam como conteúdos diferentes)
 
@@ -264,7 +301,7 @@ Observações sobre ganchos:
 1. O #54 funcionou por algo específico (os "20 anos de confiança", a emoção na tela, o primeiro brinde) e não por ser "história de cliente". Teste: ver o vídeo e comparar com #63, #67, #77.
 2. Situações do dia a dia e a dor do aluguel geram mais seguidores por visualização do que a ficha do imóvel. Teste: 4 a 6 Reels de imóveis comuns, com gancho de situação, comparados à mediana da conta.
 3. Comparação de preço alcança menos, mas qualifica melhor quem vê. Teste: esperar fechar #90, #93, #94 e cruzar com contatos no WhatsApp.
-4. Publicar o mesmo vídeo duas vezes faz o Instagram distribuir só uma versão. Teste: parar de duplicar por um mês e ver se a mediana sobe.
+4. Publicar o mesmo vídeo duas vezes faz o Instagram distribuir só uma versão. Depende primeiro de confirmar o motivo de cada duplicação (pendência da seção 2).
 5. Mais Reels por semana dividem a distribuição (outubro: mais conteúdos, mediana menor). Teste: comparar novembro com ritmo controlado.
 6. Re-editar imóveis que já tiveram resposta rende mais que um imóvel novo. Teste: registrar cada re-edição e comparar com a versão anterior.
 
@@ -298,9 +335,9 @@ Prioridade sugerida para puxar do Insights: #08, #54, #87, #52, #74, #85, #24 (m
 - crescimento líquido de seguidores no período (os 87 são só os atribuídos a Reels);
 - se as palavras do "Comenta PALAVRA" geraram conversas no direct.
 
-### Para entender as cópias
+### Para entender as duplicações
 
-- o motivo de cada par (repostagem, Reel de teste, exclusão, erro).
+- o motivo de cada um dos 32 pares, confirmado um a um (tabela da seção 2). Nenhum motivo é presumido.
 
 ## Apêndice: os 62 conteúdos, do mais visto ao menos visto
 

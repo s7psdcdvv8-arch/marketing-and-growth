@@ -277,25 +277,71 @@ Como ajustar a quantidade [HIPÓTESE, método proposto]:
 
 ## 14. Aprendizados (Learnings)
 
-Começa vazio. Cada linha precisa de evidência (teste, número, tamanho da amostra). Um caso isolado entra como `observar`, e não como regra.
+Cada linha precisa de evidência (número, tamanho da amostra, onde foi visto). Os aprendizados ficam separados em quatro tipos, que não se misturam:
 
-| Data | Aprendizado | Evidência | Aplica-se a | Status |
+- **Observação:** sai direto dos dados. Diz o que aconteceu, não por quê.
+- **Hipótese:** explicação ou aposta ainda não comprovada. Só vira conclusão depois de teste com amostra suficiente.
+- **Conclusão:** o que dá para afirmar com segurança a partir das observações. Vira regra de trabalho (`ativo`).
+- **Pendência:** informação que falta para interpretar um dado. Não se presume a resposta.
+
+Status: `ativo` (usar como regra), `observar` (acompanhar, não usar como regra), `retired` (descartado, com o motivo).
+
+Fonte de todas as linhas abaixo: diagnóstico de 2026-10-31, 94 Reels de 04/08 a 30/10/2026 (62 conteúdos únicos). Os números entre # são a ordem de publicação no diagnóstico.
+
+### Observações
+
+| Data | Observação | Evidência | Aplica-se a | Status |
 |---|---|---|---|---|
-| 2026-10-31 | Comparar Reels por conteúdo único: cópias do mesmo vídeo são somadas ao principal | 32 dos 94 Reels são cópias (mesma duração, mesma legenda). Explicam 22 dos 24 Reels abaixo de 100 views. 94 Reels | Métricas, diagnóstico | ativo |
-| 2026-10-31 | A referência da conta é a mediana por conteúdo único: 1.278 views | 62 conteúdos; a mediana de 897,5 por publicação é puxada para baixo pelas cópias. 71% dos conteúdos ficam entre 1.000 e 2.600 | Métricas, todas as skills | ativo |
-| 2026-10-31 | Avaliar cada Reel por seguidores e interação por 1.000 views, nunca só por visualização | Os 2 mais vistos (#08, #54) tiveram as menores taxas de compartilhamento e comentário. 32 de 62 conteúdos trouxeram 0 seguidor | Métricas, social | ativo |
-| 2026-10-31 | Publicar o mesmo vídeo duas vezes não soma alcance: em 31 de 32 pares, só uma versão teve distribuição | As 32 cópias somaram 2,8% das views. Causa não comprovada (repostagem, teste ou exclusão) | Publicação | observar |
-| 2026-10-31 | História de cliente não gera seguidores por si só: 1 de 5 funcionou | #54 trouxe 23 seguidores; #63, #67, #77, #91 trouxeram 0. Mediana do grupo 1.117, abaixo da conta | Roteiro, social | observar |
-| 2026-10-31 | Ganchos de situação do dia a dia e da dor do aluguel têm as melhores taxas de seguidores fora o #54 | #87 "Cansou do vizinho de cima?": 1,98 seg. e 7,52 comp. por 1.000. #57 e #71 (aluguel): 1,86 seg. e 7,06 comp. por 1.000. 3 casos | Hooks, roteiro | observar |
-| 2026-10-31 | Comparação de preço alcança menos, mas quem vê interage mais | #57, #64, #71, #80: mediana 1.051, mas todas as taxas acima da conta. 4 casos; 3 recentes ainda abertos | Hooks, copywriting | observar |
+| 2026-10-31 | 32 dos 94 Reels são o mesmo vídeo publicado duas vezes; em 31 dos 32 pares, só uma das publicações teve distribuição | Mesma duração em todos os pares; as 32 publicações duplicadas somaram 2,8% das views. Explicam 22 dos 24 Reels abaixo de 100 views. Motivo: ver Pendências | Publicação, métricas | observar |
+| 2026-10-31 | 32 dos 62 conteúdos não trouxeram nenhum seguidor; 2 conteúdos trouxeram 37% dos seguidores | #54 (23) e #08 (9) de 87 | Métricas | observar |
+| 2026-10-31 | Os 2 conteúdos mais vistos tiveram as menores taxas de interação | #08: 0,58 comp. e 0,13 com. por 1.000; #54: 1,29 e 0,97 (conta: 4,95 e 2,08) | Métricas, social | observar |
+| 2026-10-31 | Das 5 histórias de cliente, só 1 trouxe seguidores | #54 trouxe 23; #63, #67, #77, #91 trouxeram 0. Mediana do grupo 1.117, abaixo da conta | Roteiro, social | observar |
+| 2026-10-31 | O conteúdo com melhor interação do período foi um apartamento de entrada na Vila Ema | #52 (37 m², R$ 270 mil): 1º em compartilhamentos (35) e comentários (24), 2º em salvamentos, com 2.261 views. Teor dos comentários não lido | Social, customer-research | observar |
+| 2026-10-31 | Sobrados tiveram as maiores taxas de interação entre os tipos de imóvel | 9 sobrados: mediana 1.434; 6,90 comp., 2,86 com., 3,23 salv. por 1.000 (conta: 4,95, 2,08, 1,60) | Pauta, social | observar |
+| 2026-10-31 | Ganchos de situação do dia a dia e da dor do aluguel tiveram as melhores taxas de seguidores fora o #54 | #87 "Cansou do vizinho de cima?": 1,98 seg. e 7,52 comp. por 1.000. #57 e #71 (aluguel): 1,86 seg. e 7,06 comp. por 1.000. 3 casos | Hooks, roteiro | observar |
+| 2026-10-31 | Comparação de preço teve menos views e mais interação por view | #57, #64, #71, #80: mediana 1.051, todas as taxas acima da conta. 4 casos com tempo de acumular; #90, #93, #94 ainda abertos | Hooks, copywriting | observar |
 | 2026-10-31 | Perguntas sobre "quanto custa" ficaram entre os piores resultados | #78 (546), #82 (297), #90 (493, recente) | Hooks | observar |
-| 2026-10-31 | Sobrados geram mais interação que apartamentos e casas | 9 sobrados: mediana 1.434, 6,90 comp., 2,86 com., 3,23 salv. por 1.000 (conta: 4,95, 2,08, 1,60) | Pauta, social | observar |
-| 2026-10-31 | Curiosidade é salva, mas não vira seguidor | 5 conteúdos de curiosidade: 2,46 salv. por 1.000 (conta 1,60), 0,43 seg. por 1.000 (conta 0,89) | Hooks, pauta | observar |
-| 2026-10-31 | Conteúdo de bairro ainda não gerou compartilhamento nem seguidor | Sábado de História #75 e #85: 0 seguidor, 2,67 comp. por 1.000. 2 episódios | Pauta | observar |
+| 2026-10-31 | Curiosidade teve salvamento acima da conta e seguidor abaixo | 5 conteúdos: 2,46 salv. por 1.000 (conta 1,60), 0,43 seg. por 1.000 (conta 0,89) | Hooks, pauta | observar |
+| 2026-10-31 | Os 2 episódios de bairro não trouxeram seguidor e tiveram compartilhamento abaixo da conta | #75 e #85: 0 seguidor, 2,67 comp. por 1.000 | Pauta | observar |
 | 2026-10-31 | O CTA "Comenta PALAVRA" não gerou volume de comentários | 18 conteúdos, 0 a 12 comentários cada; 5 com 0 | Copywriting | observar |
-| 2026-10-31 | Reels com menos de 5 dias ficam fora das conclusões | Métricas da exportação são acumuladas; #89 a #94 tinham de 1 a 4 dias | Métricas | ativo |
+| 2026-10-31 | A conta é concentrada em um formato | 49 dos 62 conteúdos são tour do imóvel (formato inferido pela legenda) | Pauta, formatos | observar |
+| 2026-10-31 | Em 3 de 6 re-edições do mesmo imóvel, a nova versão superou a primeira | Superaram: JI (#06 → #08), Vila Ema (#48 → #52), Vila Zelina (#65 → #68). Igual: #57 → #71. Caíram: #24 → #31, #61 → #64 | Pauta, edição | observar |
+| 2026-10-31 | Outubro teve mais conteúdos e mediana menor que agosto e setembro | Ago: 19 conteúdos, mediana 1.389. Set: 19, 1.377. Out: 24, 1.049 (5 recentes) | Frequência | observar |
 
-Linhas da versão parcial (v5) substituídas: "Reels abaixo de 100 ficam fora até serem explicados" (explicado: são cópias), "mediana 897,5" (corrigida para 1.278 por conteúdo), "uma história de cliente teve a maior taxa de seguidores" (agora com os 5 casos), "Vila Ema gerou mais conversa" e "views altas não garantem seguidores" (incorporadas na regra de avaliar por taxas).
+### Hipóteses
+
+| Data | Hipótese | De onde vem | Como testar | Status |
+|---|---|---|---|---|
+| 2026-10-31 | O #54 funcionou por algo específico do vídeo (os 20 anos de confiança, a emoção, o brinde), e não por ser "história de cliente" | Só 1 de 5 histórias de cliente trouxe seguidores | Ver os 5 vídeos lado a lado e listar o que só o #54 tem | observar |
+| 2026-10-31 | Ganchos de situação cotidiana e da dor do aluguel trazem mais seguidores por view do que a ficha do imóvel | Observação dos ganchos, 3 casos | 4 a 6 Reels de imóveis comuns com esse gancho, comparados à mediana da conta | observar |
+| 2026-10-31 | Comparação de preço alcança menos, mas qualifica melhor quem vê | Observação de comparação de preço, 4 casos | Fechar #90, #93, #94 e cruzar com contatos no WhatsApp | observar |
+| 2026-10-31 | Publicar o mesmo vídeo duas vezes faz o Instagram distribuir só uma versão | Observação das duplicações | Depende primeiro da pendência sobre o motivo das duplicações | observar |
+| 2026-10-31 | Mais Reels por semana dividem a distribuição | Outubro: mais conteúdos, mediana menor | Comparar meses com ritmo controlado | observar |
+| 2026-10-31 | Refazer o vídeo de um imóvel que já teve resposta rende mais que um imóvel novo | 3 de 6 re-edições superaram a 1ª versão | Registrar cada re-edição e comparar com a anterior | observar |
+| 2026-10-31 | Sobrados geram mais interação por serem mais raros na faixa de preço, ou por terem mais atributos visuais | Observação dos sobrados | Comparar sobrados com e sem atributo de destaque | observar |
+
+### Conclusões (regras de trabalho)
+
+| Data | Conclusão | Evidência | Aplica-se a | Status |
+|---|---|---|---|---|
+| 2026-10-31 | Comparar Reels por conteúdo único: publicações duplicadas do mesmo vídeo são somadas | Sem isso, 31 publicações com quase nenhuma view distorcem medianas e categorias | Métricas, diagnóstico | ativo |
+| 2026-10-31 | A referência da conta é a mediana por conteúdo único: 1.278 views | 62 conteúdos; a mediana de 897,5 por publicação é puxada para baixo pelas duplicações | Métricas, todas as skills | ativo |
+| 2026-10-31 | Avaliar cada Reel por seguidores e interação por 1.000 views, nunca só por visualização | Os 2 mais vistos tiveram as menores taxas; metade dos conteúdos não trouxe seguidor | Métricas, social | ativo |
+| 2026-10-31 | Reels abaixo de 100 views não são lidos como fracasso criativo | 22 dos 24 são duplicações de conteúdos com distribuição normal na outra publicação | Métricas, diagnóstico | ativo |
+| 2026-10-31 | Reels com menos de 5 dias ficam fora das conclusões | Métricas exportadas são acumuladas; #89 a #94 tinham de 1 a 4 dias | Métricas | ativo |
+| 2026-10-31 | Nenhuma das 5 hipóteses criativas do Bruno está comprovada | Histórias de cliente: 1 de 5. Cotidiano: 3 casos. Curiosidade: parcial. Comparação de preço: inconclusiva. Bairro: sem apoio, 2 episódios | Todas as skills | ativo |
+| 2026-10-31 | O resultado comercial dos Reels ainda não pode ser medido | Nada nos dados liga um Reel a um contato, lead, visita ou venda | Métricas, Como medir sucesso | ativo |
+
+### Pendências
+
+| Data | Pendência | Por que importa | Status |
+|---|---|---|---|
+| 2026-10-31 | **Motivo de cada uma das 32 publicações duplicadas.** Não se presume que foram erro, teste ou repostagem intencional: o motivo fica em aberto até ser confirmado, par a par (lista no diagnóstico, seção 2) | Define se a duplicação é uma prática a manter, corrigir ou testar, e como ler a hipótese sobre distribuição | aberta |
+| 2026-10-31 | Dados de retenção dos melhores e piores conteúdos | Sem eles, não dá para avaliar ganchos nem edição | aberta |
+| 2026-10-31 | Teor dos comentários de #52, #58, #87, #74 e #08 | Separar curiosidade de intenção de compra | aberta |
+| 2026-10-31 | Origem dos contatos do WhatsApp e da Sweer | Ligar Reels a oportunidades comerciais | aberta |
+
+Linhas da versão parcial (v5) substituídas: "Reels abaixo de 100 ficam fora até serem explicados", "mediana 897,5", "uma história de cliente teve a maior taxa de seguidores", "Vila Ema gerou mais conversa" e "views altas não garantem seguidores". Todas foram refeitas acima com os dados por Reel.
 
 Diagnóstico completo, com o teste das hipóteses: [`diagnosticos/2026-10-31-reels-ago-out.md`](../diagnosticos/2026-10-31-reels-ago-out.md). Classificação dos 94 Reels: [`diagnosticos/2026-10-31-reels-classificados.csv`](../diagnosticos/2026-10-31-reels-classificados.csv).
 
@@ -317,7 +363,7 @@ Em ordem de importância para o sistema funcionar:
 2. Os dados de leads do WhatsApp e da Sweer no mesmo período: quantos chegaram, quantos foram qualificados, quantos viraram visita, proposta ou venda e se a origem foi registrada (seção 12).
 3. O que conta como oportunidade comercial e quais critérios a Sweer usa para qualificar um lead (seção 12).
 4. Perfil dos compradores atuais e o perfil mais importante para o negócio (seções 2 e 3).
-5. Por que alguns Reels foram publicados duas vezes (repostagem, Reel de teste, exclusão ou erro). Perfil do Instagram confirmado pela planilha: @grupovilelaimoveis.
+5. O motivo de cada uma das 32 publicações duplicadas, a confirmar par a par, sem presumir a causa (ver Pendências na seção 14). Perfil do Instagram confirmado pela planilha: @grupovilelaimoveis.
 6. Capacidade de produção: tempo por semana, equipamento, quem pode atuar, ferramentas de IA e acesso a imóveis para gravar (seção Produção e liberdade criativa).
 7. Diferenciais reais da Vilela e por que os clientes a escolhem (seção 6).
 8. Objeções e perguntas que mais aparecem no atendimento (seções 4, 7 e 9).
@@ -328,6 +374,7 @@ Em ordem de importância para o sistema funcionar:
 
 ## Changelog
 
+- v6.1 (2026-10-31) — Seção 14 separada em observações, hipóteses, conclusões e pendências. Motivo das 32 duplicações registrado como pendência, sem presumir a causa.
 - v6 (2026-10-31) — Aprendizados refeitos com o diagnóstico completo da planilha por Reel (94 Reels, 62 conteúdos únicos): 4 regras de medição ativas e 9 aprendizados em observação. Substituídas as linhas da versão parcial. Perfil @grupovilelaimoveis confirmado; lacuna de dados por Reel trocada por lacuna de retenção.
 
 - v5 (2026-10-31) — Primeiros aprendizados do diagnóstico dos 94 Reels de 04/08 a 30/10 (versão parcial, sem a planilha por Reel): 3 em observação e 2 regras de medição ativas.
