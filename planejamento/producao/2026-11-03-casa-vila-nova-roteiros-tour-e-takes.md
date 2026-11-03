@@ -1,10 +1,12 @@
 # Casa Vila Nova (QA 1027037): roteiros de tour e takes
 
-**Data:** 03/11/2026 · Dados do anúncio: R$ 730 mil, 200 m², 3 dorms (1 suíte), 3 banheiros, 2 vagas, quintal e jardim, armários na cozinha e nos quartos, banheiro adaptado, portas largas, perto do monotrilho Vila Tolstói / Camilo Haddad. O que estiver marcado **[confirmar]** só entra no vídeo se for verdade na visita.
+**Data:** 03/11/2026 · Preço com a Vilela: R$ 690 mil (o QuintoAndar mostra R$ 690 mil). Dados do anúncio, 200 m², 3 dorms (1 suíte), 3 banheiros, 2 vagas, quintal e jardim, armários na cozinha e nos quartos, banheiro adaptado, portas largas, perto do monotrilho Vila Tolstói / Camilo Haddad. O que estiver marcado **[confirmar]** só entra no vídeo se for verdade na visita.
 
 ---
 
 # VÍDEO 1: TOUR (padrão @victorvesete)
+
+**Ângulo novo (03/11): oportunidade.** Com a Vilela a casa sai por R$ 690 mil, abaixo dos 700. "Menos de 700 mil" é mais forte que o número exato para quem só passa o olho. Não cite o QuintoAndar nem o preço de lá no vídeo: expõe o parceiro e o proprietário. [hipótese sobre o efeito do número]
 
 Corpo, shot list e CTA seguem o [kit de gravação](2026-11-03-casa-vila-nova-qa1027037.md), seção 4. Aqui ficam só os 3 ganchos.
 
@@ -12,20 +14,26 @@ Regras fixas nos três: 1º quadro na fachada, você de corpo inteiro e de frent
 
 ### Gancho T1 — "Portão aberto" ⭐ recomendado
 - **Cena:** você abre o portão com as duas mãos e dá um passo pra frente, braços abertos, como quem recebe visita.
-- **Tela:** `CASA DE 200 m² NA VILA NOVA` / `APENAS R$ 730 MIL`
-- **Fala:** "Casa de 200 metros na Vila Nova por 730 mil. Entra comigo, porque o fundo dela você não espera."
+- **Tela:** `CASA DE 200 m² NA VILA NOVA` / `APENAS R$ 690 MIL`
+- **Fala:** "Casa de 200 metros na Vila Nova por 690 mil. Entra comigo, porque o fundo dela você não espera."
 - **Por que é o melhor:** é o molde que já performa (fachada, gente, preço) e é o único que junta o número mais forte (200 m²) com o preço. Ainda deixa um loop aberto ("o fundo") para o corpo. A frase de opinião "200 m² por 730" puxa comentário.
 
 ### Gancho T2 — "Duas vagas"
 - **Cena:** você encostado entre os dois carros (ou na vaga vazia, apontando as duas), de frente.
-- **Tela:** `CASA 3 DORMS NA VILA NOVA` / `SUÍTE + 2 VAGAS POR R$ 730 MIL`
-- **Fala:** "Três quartos, suíte, duas vagas e quintal, na Vila Nova, por 730 mil."
+- **Tela:** `CASA 3 DORMS NA VILA NOVA` / `SUÍTE + 2 VAGAS POR R$ 690 MIL`
+- **Fala:** "Três quartos, suíte, duas vagas e quintal, na Vila Nova, por 690 mil."
 - **Quando usar:** se a fachada for fraca (muro alto, sem graça). Fala com quem filtra por quarto e vaga.
+
+### Gancho T2b — "Oportunidade" (alternativa ao T2)
+- **Cena:** você na calçada, de frente, apontando a casa com as duas mãos.
+- **Tela:** `CASA DE 200 m² NA VILA NOVA` / `MENOS DE R$ 700 MIL`
+- **Fala:** "Casa de 200 metros na Vila Nova por 690 mil. Isso é oportunidade, olha comigo."
+- **Quando usar:** se quiser testar "menos de 700 mil" contra o preço exato do T1. Grave os dois na fachada; é a mesma cena.
 
 ### Gancho T3 — "Trena na porta"
 - **Cena:** você na porta de entrada, esticando uma trena de batente a batente, olhando pra câmera.
-- **Tela:** `CASA ACESSÍVEL NA VILA NOVA` / `200 m² POR R$ 730 MIL`
-- **Fala:** "Essa casa foi feita pra cadeira de rodas passar em tudo. 200 metros, 730 mil."
+- **Tela:** `CASA ACESSÍVEL NA VILA NOVA` / `200 m² POR R$ 690 MIL`
+- **Fala:** "Essa casa foi feita pra cadeira de rodas passar em tudo. 200 metros, 690 mil."
 - **Quando usar:** só se a visita confirmar banheiro adaptado e portas largas de verdade **[confirmar]**. É o mais diferente; pode ser o que mais compartilha ("manda pra quem precisa"), mas fala com um público menor.
 
 **Minha escolha: T1.** Mantém o padrão que funciona e, pela primeira vez, abre um loop para o corpo. Se você gravar os 3 (custa 1 minuto a mais na fachada), dá para usar T2 e T3 depois como Reel de teste.
@@ -89,7 +97,7 @@ Regras do corpo:
 
 | Tempo | Take | Texto |
 |---|---|---|
-| 40–44 s | Você de frente pela 1ª vez, no quintal ou na fachada, plano médio | `R$ 730 mil.` (grande, mesma fonte, vermelho) |
+| 40–44 s | Você de frente pela 1ª vez, no quintal ou na fachada, plano médio | `R$ 690 mil.` (grande, mesma fonte, vermelho) |
 | 44–50 s | Mesmo plano, você aponta pra baixo (legenda) | `Acertou? Comenta seu chute.` / `Visita: WhatsApp na bio · código na legenda` |
 
 Se for K1 ou K3, troque "Acertou? Comenta seu chute." por `Vale isso? Comenta.`
@@ -98,7 +106,7 @@ Se for K1 ou K3, troque "Acertou? Comenta seu chute." por `Vale isso? Comenta.`
 
 > Casa à venda na Vila Nova, Zona Leste SP, 3 quartos com suíte, 2 vagas, 200 m²
 >
-> [CÓDIGO] | R$ 730.000 | 200 m² | 3 dorms (1 suíte) | 3 banheiros | 2 vagas | Vila Nova
+> [CÓDIGO] | R$ 690.000 | 200 m² | 3 dorms (1 suíte) | 3 banheiros | 2 vagas | Vila Nova
 >
 > Quintal, jardim, armários na cozinha e nos quartos, banheiro adaptado e portas largas. Perto do monotrilho Vila Tolstói e Camilo Haddad.
 >
