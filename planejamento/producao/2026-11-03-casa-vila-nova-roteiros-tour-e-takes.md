@@ -1,6 +1,6 @@
 # Casa Vila Nova (QA 1027037): roteiros de tour e takes
 
-**Data:** 03/11/2026 · Preço com a Vilela: R$ 690 mil (o QuintoAndar mostra R$ 690 mil). Dados do anúncio, 200 m², 3 dorms (1 suíte), 3 banheiros, 2 vagas, quintal e jardim, armários na cozinha e nos quartos, banheiro adaptado, portas largas, perto do monotrilho Vila Tolstói / Camilo Haddad. O que estiver marcado **[confirmar]** só entra no vídeo se for verdade na visita.
+**Data:** 03/11/2026 · Preço com a Vilela: R$ 690 mil (o QuintoAndar mostra R$ 730 mil). Dados do anúncio: 200 m², 3 dorms (1 suíte), 3 banheiros, 2 vagas, quintal e jardim, armários na cozinha e nos quartos, banheiro adaptado, portas largas, perto do monotrilho Vila Tolstói / Camilo Haddad. O que estiver marcado **[confirmar]** só entra no vídeo se for verdade na visita.
 
 ---
 
